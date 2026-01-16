@@ -1,4 +1,4 @@
-# nathallymachado# Hi, I'm Nathally 👩‍💻 | Oi, eu sou a Nathally
+# Hi, I'm Nathally 👩‍💻 | Oi, eu sou a Nathally
 
 Full Stack Developer in training | Estudante de Engenharia de Software (penúltimo ano)  
 React • TypeScript • Node.js • PostgreSQL • Prisma • REST APIs
